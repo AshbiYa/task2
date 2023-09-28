@@ -15,6 +15,7 @@ background-image: url('phts/Img3.jpeg');
 }
 .navbar{
  background-color: seagreen;
+  width:100%
  color:white;
  padding:30px;
 }
@@ -23,7 +24,7 @@ li,h1,ul{
  display:inline;
 }
 ul{
- margin-right:50%;
+ margin-right:40%;
  font-size: 30px;
  justify-content: space-evenly;
 }
