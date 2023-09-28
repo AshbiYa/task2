@@ -49,6 +49,7 @@ ul{
  background-color: seagreen;
  border-radius: 5px;
  color: floralwhite;
+  font-size:55px;
  display:inline-block;
  text-decoration: none;
 }
@@ -63,6 +64,7 @@ ul{
  position: fixed;
  justify-content:space-around;
  max-height:100px;
+  font-size:45px;
  align-items: flex-wrap;
  color:white;
 }
